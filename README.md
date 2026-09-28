@@ -8,8 +8,8 @@ This project was completed as part of the **Full Stack Developer Intern Take-Hom
 
 ## 🔗 Links
 
-* **GitHub Repository:** [Add your GitHub repository link]
-* **Live API:** [Add your deployed API link]
+* **GitHub Repository:** [ https://github.com/RushilGosain/task-api-assignment ]
+* **Live API:** [ https://untested-api-task-manager.onrender.com/ ]
 
 ---
 
